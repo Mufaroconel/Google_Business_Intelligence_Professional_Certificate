@@ -21,3 +21,5 @@ In today's data-driven world, the creation of data is ubiquitous, ranging from s
 - A career in BI offers immense potential for growth and impact, with opportunities to explore diverse roles and contribute meaningfully to organizational success.
 
 Stay tuned throughout this program to uncover inspiring examples of how BI professionals drive positive change through data-driven insights. Let's embark on this exciting journey together!
+
+<video controls src="01_explore-business-intelligence-careers.mp4" title="Title"></video>
