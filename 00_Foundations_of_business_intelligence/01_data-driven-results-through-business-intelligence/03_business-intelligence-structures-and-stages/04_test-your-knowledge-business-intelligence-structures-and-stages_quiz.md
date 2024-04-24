@@ -11,16 +11,16 @@ A business intelligence professional is considering how effectively their team i
 
 In business intelligence, which stage might involve querying a database to return a financial dataset or accessing a spreadsheet of marketing campaign data?
 
-- [] Monitor
-- [] Share
-- [] Capture
-- [] Analyze
+- [ ] Monitor
+- [ ] Share
+- [ ] Capture
+- [ ] Analyze
 
 ### Question 3
 
 In what ways might data analysis be used in order to help business intelligence professionals provide data-driven insights? Select all that apply.
 
-- [] Exploring why things happened
-- [] Examining data more in-depth
-- [] Understanding relationships between data points
-- [] Automating processes and information channels
+- [ ] Exploring why things happened
+- [ ] Examining data more in-depth
+- [ ] Understanding relationships between data points
+- [ ] Automating processes and information channels
